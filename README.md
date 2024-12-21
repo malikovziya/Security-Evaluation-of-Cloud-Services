@@ -31,7 +31,7 @@ Under these terms:
 - Attribution: Give credit to the author.
 - NonCommercial: No commercial use allowed.
 
-For the full license details, visit "https://creativecommons.org/licenses/by-nc/4.0/".
+For the full license details, visit https://creativecommons.org/licenses/by-nc/4.0/.
 
 ---
 
